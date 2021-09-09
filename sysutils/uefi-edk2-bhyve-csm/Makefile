@@ -1,7 +1,7 @@
 PORTNAME=	uefi-edk2-bhyve-csm
 DISTVERSIONPREFIX=	v
 DISTVERSION=	0.2
-PORTREVISION=	3
+PORTREVISION=	4
 PORTEPOCH=	1
 CATEGORIES=	sysutils
 
@@ -20,9 +20,9 @@ USES=		gmake \
 		python:2.7,build
 USE_GCC=	4.8:build
 USE_GITHUB=	yes
-GH_ACCOUNT=	freebsd
+GH_ACCOUNT=	hrosenfeld
 GH_PROJECT=	uefi-edk2
-GH_TAGNAME=	aa8d718
+GH_TAGNAME=	vga
 
 PLIST_FILES=	${PREFIX}/share/uefi-firmware/BHYVE_UEFI_CSM.fd
 

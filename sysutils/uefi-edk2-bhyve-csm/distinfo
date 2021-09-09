@@ -1,3 +1,3 @@
-TIMESTAMP = 1548651484
-SHA256 (freebsd-uefi-edk2-v0.2-aa8d718_GH0.tar.gz) = 749ef1ec3fdb37434745a7ecf7f3d41e6c84aeb906d52e5f8ce85527a06a472e
-SIZE (freebsd-uefi-edk2-v0.2-aa8d718_GH0.tar.gz) = 30986800
+TIMESTAMP = 1631210147
+SHA256 (hrosenfeld-uefi-edk2-v0.2-vga_GH0.tar.gz) = d239b35f6620580a2c2c9ccb7133d66e889e2ae9a0ebacbd457c63f04ecee216
+SIZE (hrosenfeld-uefi-edk2-v0.2-vga_GH0.tar.gz) = 30985866
